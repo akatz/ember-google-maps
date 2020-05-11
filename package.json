@@ -106,6 +106,8 @@
     "edition": "octane"
   },
   "ember-addon": {
+    "version": 2,
+    "app-js": "./app",
     "configPath": "tests/dummy/config",
     "demoURL": "https://ember-google-maps.sandydoo.me",
     "paths": [
